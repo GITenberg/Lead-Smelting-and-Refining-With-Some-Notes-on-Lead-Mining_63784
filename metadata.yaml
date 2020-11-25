@@ -1,0 +1,25 @@
+_repo: Lead-Smelting-and-Refining-With-Some-Notes-on-Lead-Mining_63784
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Ingalls, Walter Renton
+    birthdate: 1865
+    gutenberg_agent_id: '52599'
+    url: http://www.gutenberg.org/2009/agents/52599
+description: ''
+gutenberg_issued: '2020-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63784'
+  lccn: '06046366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lead mines and mining'
+- !lcsh 'Lead -- Metallurgy'
+- !lcc 'TN'
+- GITenberg
+title: Lead Smelting and Refining, With Some Notes on Lead Mining
+url: http://www.gutenberg.org/ebooks/63784
